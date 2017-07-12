@@ -1,0 +1,4 @@
+A simple project that controls a remote control cart using the nodemcu's access point 
+instead of the infamous radio frequency ... No secrets, just compile in the nodemcu and 
+observe the power outputs of the project: D4, D5, D0, D1 .. I'll 
+post the link layout images as soon as I can.
